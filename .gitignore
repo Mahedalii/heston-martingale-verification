@@ -11,12 +11,3 @@ venv/
 # Editors
 .vscode/
 .idea/
-
-# LaTeX build artefacts (if you ever add the .tex source)
-*.aux
-*.log
-*.out
-*.toc
-*.synctex.gz
-*.fls
-*.fdb_latexmk
