@@ -27,7 +27,7 @@ The SINC pricing algorithm implemented in `FT_opt.py` is published in:
 > *The SINC way: a fast and accurate approach to Fourier pricing.*
 > Quantitative Finance, 22(3): 427–446, 2022. DOI: 10.1080/14697688.2021.1965192
 
-No licence is attached to the original library. It is reproduced here in good faith for
+No license is attached to the original library. It is reproduced here in good faith for
 reproducibility, with attribution. **If Prof. Rossi would prefer it not be redistributed,
 please contact me and I will remove it immediately**, replacing it with setup instructions
 pointing to the course materials.
