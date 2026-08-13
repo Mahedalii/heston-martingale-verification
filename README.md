@@ -19,7 +19,7 @@ holds at each monitoring date, within Monte Carlo error.
 deviation from the time-0 benchmark is **1.3 standard errors**, comfortably inside the
 1.96 threshold for a 5% two-sided test.
 
-(heston_outputs/martingale_diagnostics.png)
+![Martingale diagnostics](heston_outputs/martingale_diagnostics.png)
 
 *Each panel: green crosses are Monte Carlo means with ±1 standard error at each monthly
 date; the red line is the time-0 benchmark. Flat and centred means the martingale property
